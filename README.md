@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Katlego Zondo</a>
- 😄</h1>
+ :)</h1>
 <h3 align="center">I'm into software development ,web development ,app development and tutoring maths and physics</h3>
 
 - ⚡ I'm **currently learning** ReactJS, python ,nest.js next.js  
