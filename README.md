@@ -29,7 +29,7 @@
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=katnicole14&theme=radical&hide_border=false" alt="katnicole14" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katnicole14&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="katnicole14" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katnicole14&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="katnicole14" /></p>
 
 </div>
 
