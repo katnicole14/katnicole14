@@ -4,7 +4,6 @@
 🚀 I'm a passionate developer focused on building impactful and innovative solutions. Whether it's web apps, mobile apps, or backend services, I enjoy tackling challenges head-on.
 
 - 🔭 Currently working on school projects and personal projects, which will be made public soon.
-- 🌱 Always learning: ReactJS, Python, Nest.js, Next.js.
 - 🎓 Final year Computer Science student at the University of Pretoria.
   
 📄 You can learn more about my degree [here](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#fin).
