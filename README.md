@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Katlego Zondo</h1>
-<h3 align="center">Software Developer | Web Developer | App Developer | Tutor</h3>
+<h3 align="center">Software Engineer | Web Developer | App Developer | Tutor</h3>
 
 🚀 I'm a passionate developer focused on building impactful and innovative solutions. Whether it's web apps, mobile apps, or backend services, I enjoy tackling challenges head-on.
 
